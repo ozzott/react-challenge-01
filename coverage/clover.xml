@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1626625346733" clover="3.2.0">
+  <project timestamp="1626625346733" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="6" methods="10" coveredmethods="10" elements="34" coveredelements="34" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="TaskList.tsx" path="C:\Users\Jorge Luiz\Desktop\Ignite-Exercícios\ignite-template-reactjs-conceitos-do-react\src\components\TaskList.tsx">
+      <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="6" methods="10" coveredmethods="10"/>
+      <line num="14" count="20" type="stmt"/>
+      <line num="15" count="20" type="stmt"/>
+      <line num="18" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="7" type="stmt"/>
+      <line num="26" count="7" type="stmt"/>
+      <line num="27" count="7" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="46" count="2" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="51" count="20" type="stmt"/>
+      <line num="60" count="7" type="stmt"/>
+      <line num="72" count="16" type="stmt"/>
+      <line num="79" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
